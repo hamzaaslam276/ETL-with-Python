@@ -1,0 +1,8 @@
+2024-09-26 23:07:06.132069: Preliminaries complete. Initiating ETL process
+2024-09-26 23:07:19.262468: Data extraction complete. Initiating Transformation process
+2024-09-26 23:07:19.436536: Data transformation complete. Initiating Loading process
+2024-09-26 23:07:19.512265: Data saved to CSV file
+2024-09-26 23:07:19.790385: Data loaded to Database as a table, Executing queries
+2024-09-26 23:07:19.793322: Process Complete
+2024-09-26 23:07:19.827990: Process Complete
+2024-09-26 23:07:19.830270: Process Complete
